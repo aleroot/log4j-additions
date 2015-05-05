@@ -1,0 +1,1 @@
+log4j-additions is a java library that extends some functionalities of the fantastic apache log4j logging API.
